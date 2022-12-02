@@ -1,0 +1,9 @@
+# The humans responsible and technology
+
+# TEAM
+
+	Jason Taylor
+
+# Technology
+
+	Html 5, CSS 3, Angular
