@@ -1,5 +1,11 @@
 Petit bout de texte
 
+<<<<<<< HEAD
 Autre petit bout de texte
 
 Copyright: isasurgithub 2022
+=======
+Autre bout de texte un peu plus long
+
+Copyright: 2022 isasurgithub
+>>>>>>> realwork
