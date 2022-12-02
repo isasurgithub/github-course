@@ -1,5 +1,5 @@
 Petit bout de texte
 
-Autre bout de texte
+Autre bout de texte un peu plus long
 
-Copyright: C'est de moi 2022
+Copyright: 2022 isasurgithub
