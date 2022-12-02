@@ -1,3 +1,5 @@
 Petit bout de texte
 
 Autre bout de texte
+
+Copyright: C'est de moi 2022
