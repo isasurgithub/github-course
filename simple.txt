@@ -3,4 +3,6 @@ Changement idiot (sur main) avant un conflit de rebase
 
 Petit changement idiot!
 
+Autre bout de texte un peu plus long
+
 Copyright: isasurgithub 2022
