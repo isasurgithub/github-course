@@ -1,4 +1,5 @@
 Petit bout de texte
+Ajout de texte avant un conflit de rebase
 
 Autre bout de texte un peu plus long
 
