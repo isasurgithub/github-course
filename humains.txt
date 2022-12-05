@@ -4,6 +4,10 @@
 
 	Jason Taylor
 
+# THANKS
+	
+	Merci tout le monde!
+
 # Technology
 
 	Html 5, CSS 3, Angular
