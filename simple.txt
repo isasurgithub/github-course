@@ -1,7 +1,6 @@
 Petit bout de texte
-Changement idiot (sur main) avant un conflit de rebase
 
-Petit changement idiot!
+Petit changement idiot! Juste un petit...
 
 Autre bout de texte un peu plus long
 
