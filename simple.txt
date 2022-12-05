@@ -1,6 +1,6 @@
 Petit bout de texte
-Ajout de texte avant un conflit de rebase
+Changement idiot (sur main) avant un conflit de rebase
 
-Autre bout de texte un peu plus long
+Petit changement idiot!
 
 Copyright: isasurgithub 2022
