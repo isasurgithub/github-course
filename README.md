@@ -1,5 +1,6 @@
 # github-course
 Simple repository needed for the course on git
+Là, on joue avec stash
 
 Simple blabla
 
