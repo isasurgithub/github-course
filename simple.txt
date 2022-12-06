@@ -1,7 +1,7 @@
-Petit bout de texte
+Petit bout de texte servant de titre pour Stash
 
 Petit changement idiot! Juste un petit...
 
-Autre bout de texte un peu plus long
+J'ai autre chose à dire
 
 Copyright: Moi-Même 2022, Tous droits réservés
