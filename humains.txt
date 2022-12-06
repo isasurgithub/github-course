@@ -11,4 +11,4 @@
 
 # Technology
 
-	Html 5, CSS 3, Angular
+	Html 5, CSS 3, Angular, Git

@@ -1,4 +1,4 @@
-Petit bout de texte servant de titre pour Stash
+Texte servant de titre pour Stash
 
 Petit changement idiot! Juste un petit...
 
